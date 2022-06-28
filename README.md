@@ -1,0 +1,1 @@
+### For webserver use index.php for fast preview use index.html
